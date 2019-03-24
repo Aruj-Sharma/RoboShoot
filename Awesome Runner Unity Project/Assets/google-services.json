@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "454336437653",
+    "firebase_url": "https://robo-jump-game.firebaseio.com",
+    "project_id": "robo-jump-game",
+    "storage_bucket": "robo-jump-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454336437653:android:ca427b6c2daefa97",
+        "android_client_info": {
+          "package_name": "com.zero2unicorn.RoboJump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454336437653-qpajvb4b8u403mpoejvuhio9tm4gkgaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKEy_RzoEL1kEBr2AM56hmJQ5Uv4_aCK8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
